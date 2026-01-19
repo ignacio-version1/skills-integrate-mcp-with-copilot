@@ -1,0 +1,12 @@
+{
+  "activities": [
+    {
+      "name": "GitHub Skills",
+      "description": "Learn practical coding and collaboration skills with GitHub.",
+      "category": "Education",
+      "time": "Weekly on Fridays",
+      "registrationDeadline": "2026-01-23",
+      "status": "Open"
+    }
+  ]
+}
